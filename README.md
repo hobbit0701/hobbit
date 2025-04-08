@@ -1,5 +1,5 @@
 # hobbit
-## 01 Python Overview
+## 01 [Python Overview](https://htmlpreview.github.io/?https://github.com/imchihchao/aop113b/blob/main/slides/01-python_overview.html&authuser=0)
  -[EX01-01](https://github.com/hobbit0701/hobbit/blob/main/EX01_01_%E5%8A%A0%E6%B3%95%E5%99%A8.ipynb)
  
  -[EX01-02](https://github.com/hobbit0701/hobbit/blob/main/EX01_02_BMI_%E8%A8%88%E7%AE%97.ipynb)
@@ -12,6 +12,6 @@
 
  -[EX01-06](https://github.com/hobbit0701/hobbit/blob/main/EX01_06_%E7%B0%A1%E6%98%93%E8%B3%BC%E7%89%A9%E8%BB%8A.ipynb)
 
- ## 02 Web Crawler
+ ## 02 [Web Crawler](https://htmlpreview.github.io/?https://github.com/imchihchao/aop113b/blob/main/slides/02-web_crawler.html&authuser=0)
  -[EX02-01](https://github.com/hobbit0701/hobbit/blob/main/EX02_01_My_Chatbot.ipynb)
  ## 03 [Data Analysis](https://htmlpreview.github.io/?https://github.com/imchihchao/aop113b/blob/main/slides/03-data_analysis.html&authuser=0)
