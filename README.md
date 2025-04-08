@@ -14,3 +14,4 @@
 
  ## 02 Web Crawler
  -[EX02-01](https://github.com/hobbit0701/hobbit/blob/main/EX02_01_My_Chatbot.ipynb)
+ ## 03 [Data Analysis](https://htmlpreview.github.io/?https%3A%2F%2Fgithub.com%2Fimchihchao%2Faop113b%2Fblob%2Fmain%2Fslides%2F03-data_analysis.html=#1)
