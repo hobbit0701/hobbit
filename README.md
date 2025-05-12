@@ -14,4 +14,5 @@
 
  ## 02 [Web Crawler](https://htmlpreview.github.io/?https://github.com/imchihchao/aop113b/blob/main/slides/02-web_crawler.html&authuser=0)
  -[EX02-01](https://github.com/hobbit0701/hobbit/blob/main/EX02_01_My_Chatbot.ipynb)
+ -[EX02-07](https://github.com/hobbit0701/hobbit/blob/main/EX02_07_KKday.ipynb)
  ## 03 [Data Analysis](https://htmlpreview.github.io/?https://github.com/imchihchao/aop113b/blob/main/slides/03-data_analysis.html&authuser=0)
