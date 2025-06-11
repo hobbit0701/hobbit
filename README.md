@@ -1,8 +1,8 @@
 # 程式應用
 ## 01 [Python Overview](https://htmlpreview.github.io/?https://github.com/imchihchao/aop113b/blob/main/slides/01-python_overview.html&authuser=0)
- -[EX01-01 加法器](https://github.com/hobbit0701/hobbit/blob/main/EX01_01_%E5%8A%A0%E6%B3%95%E5%99%A8.ipynb)
+ - [EX01-01 加法器](https://github.com/hobbit0701/hobbit/blob/main/EX01_01_%E5%8A%A0%E6%B3%95%E5%99%A8.ipynb)
  
- -[EX01-02 BMI 計算](https://github.com/hobbit0701/hobbit/blob/main/EX01_02_BMI_%E8%A8%88%E7%AE%97.ipynb)
+ - [EX01-02 BMI 計算](https://github.com/hobbit0701/hobbit/blob/main/EX01_02_BMI_%E8%A8%88%E7%AE%97.ipynb)
 
  -[EX01-03 Rock-Paper-Scissors](https://github.com/hobbit0701/hobbit/blob/main/EX01_03_rock_paper_scissors.ipynb)
 
