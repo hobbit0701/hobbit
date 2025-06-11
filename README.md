@@ -40,7 +40,7 @@
  - [EX03-06 出生人口數](https://github.com/hobbit0701/hobbit/blob/main/EX03_06_%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E6%95%B8.ipynb)
    
  - [EX03-07 Tips](https://github.com/hobbit0701/hobbit/blob/main/EX03_07_Tips.ipynb)
-## 04 [Machine Learning](https://htmlpreview.github.io/?https%3A%2F%2Fgithub.com%2Fimchihchao%2Faop113b%2Fblob%2Fmain%2Fslides%2F04-machine_learning.html=)
+## 04 [Machine Learning](https://htmlpreview.github.io/?https%3A%2F%2Fgithub.com%2Fimchihchao%2Faop113b%2Fblob%2Fmain%2Fslides%2F04-machine_learning.html&authuser=0)
 - [EX04-01_汽車車型數值資料轉換](https://github.com/hobbit0701/hobbit/blob/main/EX04_01_%E6%B1%BD%E8%BB%8A%E8%BB%8A%E5%9E%8B%E6%95%B8%E5%80%BC%E8%B3%87%E6%96%99%E8%BD%89%E6%8F%9B.ipynb)
 
 - [EX04-02客戶基本資料編碼](https://github.com/hobbit0701/hobbit/blob/main/EX04_02%E5%AE%A2%E6%88%B6%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99%E7%B7%A8%E7%A2%BC.ipynb)
@@ -52,3 +52,12 @@
 - [EX04-05辨識鳶尾花](https://github.com/hobbit0701/hobbit/blob/main/EX04_05_%E8%BE%A8%E8%AD%98%E9%B3%B6%E5%B0%BE%E8%8A%B1.ipynb)
 
 - [EX04_06ETToday新聞標題分類](https://github.com/hobbit0701/hobbit/blob/main/EX04_06_ET_Today_%E6%96%B0%E8%81%9E%E6%A8%99%E9%A1%8C%E5%88%86%E9%A1%9E.ipynb)
+
+## 05 [Web API](https://htmlpreview.github.io/?https%3A%2F%2Fgithub.com%2Fimchihchao%2Faop113b%2Fblob%2Fmain%2Fslides%2F05-web_api.html&authuser=0)
+- [EX05-01Echo_Bot](https://github.com/hobbit0701/hobbit/blob/main/EX05_01_Echo_Bot.ipynb)
+
+- [EX05-02Ask_Gemini](https://github.com/hobbit0701/hobbit/blob/main/EX05_02_Ask_Gemini.ipynb)
+
+- [EX05-03Reply_Multi_type_Messages](https://github.com/hobbit0701/hobbit/blob/main/EX05_03_Reply_Multi_type_Messages.ipynb)
+
+- [EX05-04_Reply_Template_Messages](https://github.com/hobbit0701/hobbit/blob/main/EX05_04_Reply_Template_Messages.ipynb)
