@@ -25,7 +25,7 @@
  
  - [EX02-06 開眼電影](https://github.com/hobbit0701/hobbit/blob/main/EX02_06_%E9%96%8B%E6%BC%94%E9%9B%BB%E5%BD%B1.ipynb)
  
- -[EX02-07 KKDay](https://github.com/hobbit0701/hobbit/blob/main/EX02_07_KKday.ipynb)
+ - [EX02-07 KKDay](https://github.com/hobbit0701/hobbit/blob/main/EX02_07_KKday.ipynb)
  ## 03 [Data Analysis](https://htmlpreview.github.io/?https://github.com/imchihchao/aop113b/blob/main/slides/03-data_analysis.html&authuser=0)
  - [EX03-01 公司薪資概況Ⅰ](https://github.com/hobbit0701/hobbit/blob/main/EX03_01_%E5%85%AC%E5%8F%B8%E8%96%AA%E8%B3%87%E6%A6%82%E6%B3%81%E2%85%A0.ipynb)
  - [EX03-02 公司薪資概況Ⅱ](https://github.com/hobbit0701/hobbit/blob/main/EX03_02_%E5%85%AC%E5%8F%B8%E8%96%AA%E8%B3%87%E6%A6%82%E6%B3%81%E2%85%A1.ipynb)
